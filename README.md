@@ -23,5 +23,5 @@
 <h3>Socials:</h3>
 <p>
 <a href="https://t.me/sonrayy" target="_blank"><img src="assets/telegram.svg" width="300" style="display:inline; margin-right:10px;" /></a>
-<a href="https://discord.com/s0nrayy" target="_blank"><img src="assets/discord.svg" width="300" style="display:inline; margin-right:10px;"/></a>
+<a href="https://discordapp.com/users/572273541693833226" target="_blank"><img src="assets/discord.svg" width="300" style="display:inline; margin-right:10px;"/></a>
 </p>
