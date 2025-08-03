@@ -22,6 +22,6 @@
 </p>
 <h3>Socials:</h3>
 <p>
-  <link url="t.me/sonrayy"><img src="assets/telegram.svg" width="300" style="display:inline; margin-right:10px;" /></link>
-  <link url="t.me/sonrayy"><img src="assets/discord.svg" width="300" style="display:inline; margin-right:10px;" /></link>
+<img src="assets/telegram.svg" width="300" style="display:inline; margin-right:10px;" url="t.me/sonrayy" />
+<img src="assets/discord.svg" width="300" style="display:inline; margin-right:10px;" url="t.me/sonrayy" />
 </p>
