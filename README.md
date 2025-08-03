@@ -1,8 +1,27 @@
 # sonrayy
-### Devices:
+### 👤 About me
+- 🧑 Age: 16  
+- 🏙️ Location: Saint Petersburg, Russia  
+- 🗣️ Languages: Russian (native), English (fluent)  
+- 💻 Stack: Python, JavaScript, HTML/CSS, Telegram API, OpenAI API
+- 🧠 Interests: AI, automation, technical writing, bot development  
+- 📱 Platforms: Telegram, Web, macOS, Linux  
+- 🎯 Currently focused on:  
+  - AI assistants for document parsing  
+  - Telegram bots with OpenAI and computer vision
+### 🧠 What I enjoy:
+- Integrating neural networks into real-world workflows  
+- Optimizing the handling of documents and technical specifications  
+- Building custom solutions for Telegram and the Web  
+<h3>Devices:</h3>
 <p>
-  <img src="macbook_airm3.svg" width="300" style="display:inline; margin-right:10px;" />
-  <img src="pc.svg" width="300" style="display:inline;" />
-  <img src="xiaomi_13.svg" width="300" style="display:inline; margin-right:10px;" />
-  <img src="samsung_galaxy_s23.svg" width="300" style="display:inline;" />
+  <img src="assets/macbook_airm3.svg" width="300" style="display:inline; margin-right:10px;" />
+  <img src="assets/pc.svg" width="300" style="display:inline;" />
+  <img src="assets/xiaomi_13.svg" width="300" style="display:inline; margin-right:10px;" />
+  <img src="assets/samsung_galaxy_s23.svg" width="300" style="display:inline;" />
+</p>
+<h3>Socials:</h3>
+<p>
+  <link url="t.me/sonrayy"><img src="assets/telegram.svg" width="300" style="display:inline; margin-right:10px;" /></link>
+  <link url="t.me/sonrayy"><img src="assets/discord.svg" width="300" style="display:inline; margin-right:10px;" /></link>
 </p>
